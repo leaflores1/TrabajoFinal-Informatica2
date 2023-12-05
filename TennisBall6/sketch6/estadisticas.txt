@@ -1,0 +1,14 @@
+Muertes: 1, Tiempo total de juego: 1847 milisegundos
+Muertes: 1, Tiempo total de juego: 1848 milisegundos
+Muertes: 2, Tiempo total de juego: 3684 milisegundos
+Muertes: 3, Tiempo total de juego: 5523 milisegundos
+Muertes: 1, Tiempo total de juego: 1840 milisegundos
+Muertes: 1, Tiempo total de juego: 1844 milisegundos
+Muertes: 2, Tiempo total de juego: 3681 milisegundos
+Muertes: 3, Tiempo total de juego: 17213 milisegundos
+Muertes: 1, Tiempo total de juego: 1850 milisegundos
+Muertes: 2, Tiempo total de juego: 3685 milisegundos
+Muertes: 3, Tiempo total de juego: 8279 milisegundos
+Muertes: 1, Tiempo total de juego: 20524 milisegundos
+Muertes: 2, Tiempo total de juego: 29032 milisegundos
+Muertes: 3, Tiempo total de juego: 33637 milisegundos
